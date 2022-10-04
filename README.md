@@ -1,5 +1,5 @@
 # philosophers
-Project to learn how to create threads and discover the mutexes. 
+In this project will learn how to create threads and discover the mutexes. 
 
 This project is a training to multi-threads/multi-process programming with the use of mutex and semaphore.
 
